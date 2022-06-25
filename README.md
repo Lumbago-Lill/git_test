@@ -1,2 +1,2 @@
 # git_test
-Setting up git for working through the Odin Project
+Setting up a test git for working through the Odin Project
